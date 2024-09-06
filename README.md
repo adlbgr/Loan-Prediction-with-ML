@@ -1,0 +1,1 @@
+This project involves analyzing loan data to determine the important features that influence loan status. The notebook includes data preprocessing, feature engineering, and model training using various machine learning algorithms. The performance of these models is compared, and the best model is selected to visualize feature importance.
